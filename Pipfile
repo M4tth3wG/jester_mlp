@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pandas = "*"
+numpy = "*"
+sentence-transformers = "*"
+jupyter = "*"
+scikit-learn = "*"
+matplotlib = "*"
+xlrd = "*"
 
 [dev-packages]
 
